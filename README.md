@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **vue, php, JS**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ines-garcia-zapata-0b64b3175/](https://www.linkedin.com/in/ines-garcia-zapata-0b64b3175/)
-
 - ⚡ Fun fact **I know good jokes**
 
 <h3 align="left">Connect with me:</h3>
