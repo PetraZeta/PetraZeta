@@ -145,7 +145,7 @@
         </a>
     </p>
 </div>
-<h4 style="width: 100%; text-align: center; font-family: Roboto, sans-serif;">Backend as a Service(BaaS)
+<h4 align="left" style="width: 100%; text-align: center; font-family: Roboto, sans-serif;">Backend as a Service(BaaS)
 </h4>
 <div style="display: flex; justify-content: space-around; margin: 0 32px">
 
@@ -156,15 +156,16 @@
         </a>
     </p>
 </div>
-<h4 style="width: 100%; text-align: center; font-family: Roboto, sans-serif;">Framework</h4>
+<h4 align="left" style="width: 100%; text-align: center; font-family: Roboto, sans-serif;">Framework</h4>
 <div style="display: flex; justify-content: space-around; margin: 0 32px">
+
     <p>
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
         </a>
     </p>
 </div>
-<h4 style="width: 100%; text-align: center; font-family: Roboto, sans-serif;">Software</h4>
+<h4 align="left" style="width: 100%; text-align: center; font-family: Roboto, sans-serif;">Software</h4>
 <div style="display: flex; justify-content: space-around; margin: 0 32px">
 
     <p>
