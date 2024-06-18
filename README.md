@@ -24,8 +24,7 @@
 </h3>
 <h4 align="left" style="width: 100%; text-align: center; font-family: Roboto, sans-serif;">Programming Languages</h4>
 <div style="display: flex; flex-direction: row; justify-content: space-around; margin: 0 32px">
-
-    <p align="center">
+    <p>
         <a href="https://www.java.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
                 width="40" height="40" />
@@ -106,7 +105,6 @@
 </div>
 <h4 align="left" style="width: 100%; text-align: center; font-family: Roboto, sans-serif;">Backend Development</h4>
 <div style="display: flex; justify-content: space-around; margin: 0 32px">
-
     <p>
         <a href="https://expressjs.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -122,7 +120,6 @@
 </div>
 <h4 align="left" style="width: 100%; text-align: center; font-family: Roboto, sans-serif;">Mobile App Development</h4>
 <div style="display: flex; justify-content: space-around; margin: 0 32px">
-
     <p>
         <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
             <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
@@ -131,7 +128,6 @@
 </div>
 <h4 align="left" style="width: 100%; text-align: center; font-family: Roboto, sans-serif;">Database</h4>
 <div style="display: flex; justify-content: space-around; margin: 0 32px">
-
     <p>
         <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
             <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40"
@@ -148,7 +144,6 @@
 <h4 align="left" style="width: 100%; text-align: center; font-family: Roboto, sans-serif;">Backend as a Service(BaaS)
 </h4>
 <div style="display: flex; justify-content: space-around; margin: 0 32px">
-
     <p>
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"
@@ -158,7 +153,6 @@
 </div>
 <h4 align="left" style="width: 100%; text-align: center; font-family: Roboto, sans-serif;">Framework</h4>
 <div style="display: flex; justify-content: space-around; margin: 0 32px">
-
     <p>
         <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
             <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
@@ -167,7 +161,6 @@
 </div>
 <h4 align="left" style="width: 100%; text-align: center; font-family: Roboto, sans-serif;">Software</h4>
 <div style="display: flex; justify-content: space-around; margin: 0 32px">
-
     <p>
         <a href="https://postman.com" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
@@ -179,7 +172,6 @@
             <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
         </a>
     </p>
-
     <p>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
