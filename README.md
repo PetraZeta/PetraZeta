@@ -3,7 +3,7 @@
     <h3 align="center" style="width: 100%; text-align: center; font-family: Roboto, sans-serif;">A passionate frontend
         developer from Extremadura, Spain</h3>
     <p style="width: 100%;  font-family: Roboto, sans-serif;">
-        - 🔭 I’m currently working on [django_DRF_vue](https://github.com/PetraZeta/django_DRF_vue)
+        - 🔭 I’m currently working on [react_node_storybook]([https://github.com/PetraZeta/CollaborativeDesignSystem.git])
     </p>
     <p style="width: 100%; ; font-family: Roboto, sans-serif;">
         - 💬 Ask me about **vue, php, JS**
