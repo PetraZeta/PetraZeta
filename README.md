@@ -2,16 +2,13 @@
   <h1 align="center" style="width: 100%; text-align: center; font-family: Roboto, sans-serif;">Hi 👋, I'm Inés</h1>
     </div>
     <img src="https://github.com/PetraZeta/PetraZeta/blob/main/banner.jpg">
-    
     ## A passionate frontend developer from Extremadura, Spain
-    
     - 🔭 I’m currently working on [react_node_storybook](https://github.com/PetraZeta/CollaborativeDesignSystem.git) ⭐ 
     - 💬 Ask me about **vue, php, JS**
     - ✏️ Contact me [linkedIn](https://linkedin.com/in/ines-garcia-zapata)
     - 📗 Learning UX/UI Design
     - ⚡ Fun fact **I know good jokes**
-    <br>
-    
+    <br>  
     ### ⚙️ &nbsp;GitHub Analytics
     <p align="center">
     <a href="https://github.com/ArisGuimera">
