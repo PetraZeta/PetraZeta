@@ -1,24 +1,17 @@
-<h1 align="center" style="width: 100%; text-align: center; font-family: Roboto, sans-serif;">Hi 👋, I'm Inés</h1>
-<div style="margin: 0 40px;">
-    <h3 align="center" style="width: 100%; text-align: center; font-family: Roboto, sans-serif;">A passionate frontend
-        developer from Extremadura, Spain</h3>
-    <p style="width: 100%;  font-family: Roboto, sans-serif;">
-        - 🔭 I’m currently working on [react_node_storybook]([https://github.com/PetraZeta/CollaborativeDesignSystem.git])
-    </p>
-    <p style="width: 100%; ; font-family: Roboto, sans-serif;">
-        - 💬 Ask me about **vue, php, JS**
-    </p>
-    <p style="width: 100%;  font-family: Roboto, sans-serif;">
-        - ⚡ Fun fact **I know good jokes**
-    </p>
-</div>
-<h3 align="left" style="width: 100%; text-align: center; font-family: Roboto, sans-serif;">Connect with me:</h3>
-<div style="display: flex; flex-direction: row; justify-content: space-around; margin: 0 32px">
-    <p align="left">
-        <a href="https://linkedin.com/in/ines-garcia-zapata" target="blank"><img align="center"
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-                alt="ines-garcia-zapata" height="30" width="40" /></a>
-    </p>
+<div align="center">
+  <h1 align="center" style="width: 100%; text-align: center; font-family: Roboto, sans-serif;">Hi 👋, I'm Inés</h1>
+    </div>
+    <img src="https://github.com/PetraZeta/PetraZeta/blob/main/banner.jpg">
+    
+    
+    ## A passionate frontend developer from Extremadura, Spain
+    
+    - 🔭 I’m currently working on [react_node_storybook](https://github.com/PetraZeta/CollaborativeDesignSystem.git) ⭐ 
+    - 💬 Ask me about **vue, php, JS**
+    - ✏️ Contact me [linkedIn](https://linkedin.com/in/ines-garcia-zapata)
+    - 📗 Learning UX/UI Design
+    - ⚡ Fun fact **I know good jokes**
+    <br>
 </div>
 <h3 align="left" style="width: 100%; text-align: center; font-family: Roboto, sans-serif; font-size:x-large;">Skills
 </h3>
