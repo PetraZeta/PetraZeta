@@ -6,7 +6,7 @@
 
 ## A passionate frontend developer from Extremadura, Spain
 
-- 🔭 I’m currently working on [react_node_storybook](https://github.com/PetraZeta/CollaborativeDesignSystem.git) ⭐ 
+- 🔭 I’m currently working on [CE_Desarrollo_Phyton](https://github.com/PetraZeta/CE_Desarrollo_Phyton.git) ⭐ 
 - 💬 Ask me about **vue, php, JS**
 - ✏️ Contact me on [LinkedIn](https://linkedin.com/in/ines-garcia-zapata)
 - 📗 Learning UX/UI Design
