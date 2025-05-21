@@ -6,7 +6,7 @@
 
 ## A passionate frontend developer from Extremadura, Spain
 
-- 🔭 I’m currently working on [CE_Desarrollo_Phyton](https://github.com/PetraZeta/CE_Desarrollo_Phyton.git) ⭐ 
+- 🔭 I’m currently working on [CE_Desarrollo_Python](https://github.com/PetraZeta/CE_Desarrollo_Python.git) ⭐ 
 - 💬 Ask me about **vue, php, JS**
 - ✏️ Contact me on [LinkedIn](https://linkedin.com/in/ines-garcia-zapata)
 - 📗 Learning UX/UI Design
